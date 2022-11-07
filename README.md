@@ -1,16 +1,43 @@
-### Hi there 👋
+<h1 align="center">Khader A. Murtaja 👋</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;&center=true&width=500&height=50"></a>
+</p>
 
-<!--
-**KhaderMurtaja/KhaderMurtaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Flutter, Dart, Firebase
+- 🌱 I’m currently learning iOS Development
+- ⚡ Fun fact: I'm always hungry
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Reach me on:
+
+<p>
+<a href="https://github.com/KhaderMurtaja"><img src="https://img.shields.io/badge/-Khader_A._Murtaja-black?logo=github&style=flat-square"/></a>
+<a href="https://www.linkedin.com/in/khader-murtaja/"><img src="https://img.shields.io/badge/-Khader_Murtaja-blue?logo=linkedin&style=flat-square"></a>
+<a href="mailto:khadermurtaja1@gmail.com"><img src="https://img.shields.io/badge/-khadermurtaja1@gmail.com-black?logo=gmail&style=flat-square"/></a>
+<a href="https://twitter.com/KhaderMurtaja"><img src="https://img.shields.io/badge/-Khader_A._Murtaja_🇵🇸💙-blue?logo=twitter&style=flat-square"/></a>
+</p>
+
+
+<br>
+
+<h3>⚡ Recent GitHub Activity</h3>
+<br>
+
+![KhaderMurtaja's github stats](https://github-readme-stats.vercel.app/api?username=KhaderMurtaja&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhaderMurtaja&theme=tokyonight" alt="mystreak"/>
+![KhaderMurtaja's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaderMurtaja&theme=tokyonight&layout=compact)
+
+
+  <br/>
+   <a href="https://github.com/7oSkaaa"><img src="https://activity-graph.herokuapp.com/graph?username=KhaderMurtaja&custom_title=Khader Murtaja's%20Contribution%20Graph&theme=algolia" /></a>
+  <br/>
+
+
+<br/>
+
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KhaderMurtaja&layout=compact&theme=algolia"/></a> </p>
+
+<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=KhaderMurtaja&layout=wide&show_reply=off&show_retweet=off" />
+</a>
