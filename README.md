@@ -30,15 +30,10 @@
 
 
 <br/>
-  <a href="https://github.com/7oSkaaa"><img src="https://activity-graph.herokuapp.com/graph?username=KhaderMurtaja&custom_title=Khader Murtaja's%20Contribution%20Graph&theme=algolia" /></a>
-<br/>
-
-
-<br/>
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KhaderMurtaja&layout=compact&theme=algolia"/></a> </p>
+<p align="center"> <a href="https://twitter.com/KhaderMurtaja"><img src="https://github-profile-trophy.vercel.app/?username=KhaderMurtaja&layout=compact&theme=algolia"/></a> </p>
 
-<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=KhaderMurtaja&layout=wide&show_reply=off&show_retweet=off" />
+<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=KhaderMurtaja&layout=wide&show_reply=false&show_retweet=false" />
 </a>
