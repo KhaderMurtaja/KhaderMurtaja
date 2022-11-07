@@ -25,12 +25,13 @@
 
 ![KhaderMurtaja's github stats](https://github-readme-stats.vercel.app/api?username=KhaderMurtaja&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhaderMurtaja&theme=tokyonight" alt="mystreak"/>
+
 ![KhaderMurtaja's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaderMurtaja&theme=tokyonight&layout=compact)
 
 
-  <br/>
-   <a href="https://github.com/7oSkaaa"><img src="https://activity-graph.herokuapp.com/graph?username=KhaderMurtaja&custom_title=Khader Murtaja's%20Contribution%20Graph&theme=algolia" /></a>
-  <br/>
+<br/>
+  <a href="https://github.com/7oSkaaa"><img src="https://activity-graph.herokuapp.com/graph?username=KhaderMurtaja&custom_title=Khader Murtaja's%20Contribution%20Graph&theme=algolia" /></a>
+<br/>
 
 
 <br/>
