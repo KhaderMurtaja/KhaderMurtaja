@@ -33,7 +33,7 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://twitter.com/KhaderMurtaja"><img src="https://github-profile-trophy.vercel.app/?username=KhaderMurtaja&layout=compact&theme=algolia"/></a> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=KhaderMurtaja&layout=compact&theme=algolia"/> </p>
 
-<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=KhaderMurtaja&layout=wide&show_reply=false&show_retweet=false" />
-</a>
+<p align="center"> <a href="https://twitter.com/KhaderMurtaja"> <img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=KhaderMurtaja&layout=wide&show_reply=false&show_retweet=false" />
+</a></p>
