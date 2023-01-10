@@ -4,7 +4,7 @@
 </p>
 
 - 🔭 I’m currently working on Flutter, Dart, Firebase
-- 🌱 I’m currently learning iOS Development
+- 🌱 I’m currently learning Kotlin
 - ⚡ Fun fact: I'm always hungry
 
 
