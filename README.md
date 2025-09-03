@@ -29,6 +29,8 @@
 <!-- Palestine flag (dot matrix) -->
 ![Palestine flag made of dots](assets/palestine-dot-flag.svg)
 
+<h2 align="center">End the genocide in Gaza — Free Palestine.</h2>
+
 ## 🧭 About Me
 
 - 🔭 Currently focused on: Flutter, Dart, Firebase
