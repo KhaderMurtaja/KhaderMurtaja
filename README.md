@@ -107,42 +107,14 @@
 ## 💼 Professional Experience
 
 ### [Enfaq](https://enfaq.com.sa/en/) — Senior Flutter Engineer (Remote · Riyadh, Saudi Arabia) · Apr 2025 – Jul 2025
-- Led MVP mobile app development from the ground up with Flutter/Dart following best practices
-- Architected and implemented Practical Flutter Architecture for clarity, scalability, and maintainability
-- Customized and enhanced UI components aligned to evolving use cases and UX best practices
-- Integrated backend services using OpenAPI for seamless microservices access
-- Set up Firebase project and push notifications for reliable, real-time engagement
-- Maintained iOS/Android builds ensuring stability, compatibility, and OS-compliance
 
 ### [Prosway](https://prosway.com/) — Senior Flutter Engineer (Remote · Memphis, TN, USA) · Aug 2024 – Apr 2025
-- Built real estate marketplace app from scratch with Clean Architecture and BLoC
-- Implemented real-time messaging (1:1/group, text/images) via Firebase Realtime Database
-- Developed notifications (push/in-app) with FCM and user preferences for reliable delivery
-- Implemented authentication with email/password and social logins (Apple, Google) and secure token mgmt
-- Added Two-Factor Authentication (OTP) to strengthen account security
-- Enhanced property analysis with interactive charts for trends and investment metrics
-- Wrote unit/widget tests for core flows (routing, splash, analysis) with Flutter test, Mockito, Mocktail
 
 ### [UMRA Tech](https://www.umratech.com) — Flutter Engineer (Remote · Washington, D.C., USA) · Dec 2022 – Sep 2024
-- Built favorites management for duas and robust backup for [Everyday Muslim](https://apps.apple.com/il/app/everyday-muslim-ramadan-2024/id1546578729) app
-- Updated Firebase collections to match codebase changes for [Deenify](https://apps.apple.com/il/app/deenify-muslim-community-app/id1538524619) and [Everyday Muslim](https://apps.apple.com/il/app/everyday-muslim-ramadan-2024/id1546578729)
-- Upgraded [Deenify](https://apps.apple.com/il/app/deenify-muslim-community-app/id1538524619) to latest Flutter/Dart; ensured non-nullability and optimized packages/performance
-- Upgraded [Islamic - Trivia](https://apps.apple.com/il/app/islamic-trivia/id1575106691) app to latest versions; reduced runtime errors and improved performance
 
 ### [The Social App](https://apps.apple.com/il/app/the-social-app-make-paid-chat/id1519595567) — Flutter Engineer (Remote · Washington, D.C., USA) · Sep 2021 – Jun 2023
-- Built Paid Group Chat UI/logic with VanityLinks to boost personalization and engagement
-- Enhanced large WhatsApp chat import, streamlined flow for seamless UX
-- Implemented localization for 16 languages to expand global reach
-- Upgraded native code for Android 12+ notifications with inline reply
-- Improved voice notes (playback speed, audio quality)
-- Built onboarding ShowCase Tutorial to lift activation
-- Optimized version control and delivery workflows
-- Performance improvements adhering to Flutter best practices
 
 ### [Klokbox](https://klokbox.com) — Flutter Engineer (Remote · Killarney, Ireland) · Jun 2021 – Aug 2021
-- Migrated to Null Safety; enforced non-nullability to reduce runtime errors
-- Resolved UI issues to meet design guidelines and improve usability
-- Re-analyzed UI elements to improve interaction and satisfaction
 
 
 ## 🎓 Education
