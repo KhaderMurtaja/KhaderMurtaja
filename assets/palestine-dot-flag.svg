@@ -129,8 +129,8 @@
   <circle cx="45" cy="55" r="2" class="red" fill="#CE1126"/>
   <circle cx="55" cy="55" r="2" class="red" fill="#CE1126"/>
   <circle cx="65" cy="55" r="2" class="red" fill="#CE1126"/>
-  <circle cx="75" cy="55" r="2" class="red" fill="#CE1126"/>
-  <circle cx="85" cy="55" r="2" class="red" fill="#CE1126"/>
+  <circle cx="75" cy="55" r="2" fill="#ffffff"/>
+  <circle cx="85" cy="55" r="2" fill="#ffffff"/>
   <circle cx="95" cy="55" r="2" fill="#ffffff"/>
   <circle cx="105" cy="55" r="2" fill="#ffffff"/>
   <circle cx="115" cy="55" r="2" fill="#ffffff"/>
