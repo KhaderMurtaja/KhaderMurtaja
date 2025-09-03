@@ -27,10 +27,10 @@
 <br/>
 
 <!-- Palestine flag (dot matrix) -->
-<p align="center" style="margin-bottom:6px;">
+<p align="center" style="margin:0; line-height:0;">
   <img src="assets/palestine-dot-flag.svg" alt="Palestine flag made of dots" style="max-width:100%; display:block; margin:0;"/>
 </p>
-<h2 align="center" style="color:#CE1126; font-weight:800; margin-top:0;">Gaza is bleeding — End the genocide. <span style="color:#007A3D;">Free Palestine.</span> 🕊️</h2>
+<h2 align="center" style="color:#CE1126; font-weight:800; margin:0;">Gaza is bleeding — End the genocide. <span style="color:#007A3D;">Free Palestine.</span> 🕊️</h2>
 
 ## 🧭 About Me
 
