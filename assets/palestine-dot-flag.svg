@@ -1,10 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100" width="1200" height="600" role="img" aria-label="Palestine flag made of dots" preserveAspectRatio="xMidYMid meet">
   <title>Palestine flag made of dots</title>
+  <style>
+    @keyframes pulse {
+      0% { opacity: 0.8; }
+      50% { opacity: 1; }
+      100% { opacity: 0.8; }
+    }
+    .red { animation: pulse 2.5s ease-in-out infinite; }
+  </style>
   <!-- Dots grid (no patterns; compatible with GitHub SVG sanitization) -->
   <!-- Rows at y = 5,15,25,35,45,55,65,75,85,95 and columns x = 5..195 step 10 -->
 
   <!-- y = 5 (black stripe; red at x=5) -->
-  <circle cx="5" cy="5" r="2" fill="#CE1126"/>
+  <circle cx="5" cy="5" r="2" class="red" fill="#CE1126"/>
   <circle cx="15" cy="5" r="2" fill="#000000"/>
   <circle cx="25" cy="5" r="2" fill="#000000"/>
   <circle cx="35" cy="5" r="2" fill="#000000"/>
@@ -26,9 +34,9 @@
   <circle cx="195" cy="5" r="2" fill="#000000"/>
 
   <!-- y = 15 (black stripe; red at x <= 30) -->
-  <circle cx="5" cy="15" r="2" fill="#CE1126"/>
-  <circle cx="15" cy="15" r="2" fill="#CE1126"/>
-  <circle cx="25" cy="15" r="2" fill="#CE1126"/>
+  <circle cx="5" cy="15" r="2" class="red" fill="#CE1126"/>
+  <circle cx="15" cy="15" r="2" class="red" fill="#CE1126"/>
+  <circle cx="25" cy="15" r="2" class="red" fill="#CE1126"/>
   <circle cx="35" cy="15" r="2" fill="#000000"/>
   <circle cx="45" cy="15" r="2" fill="#000000"/>
   <circle cx="55" cy="15" r="2" fill="#000000"/>
@@ -48,11 +56,11 @@
   <circle cx="195" cy="15" r="2" fill="#000000"/>
 
   <!-- y = 25 (black stripe; red at x <= 50) -->
-  <circle cx="5" cy="25" r="2" fill="#CE1126"/>
-  <circle cx="15" cy="25" r="2" fill="#CE1126"/>
-  <circle cx="25" cy="25" r="2" fill="#CE1126"/>
-  <circle cx="35" cy="25" r="2" fill="#CE1126"/>
-  <circle cx="45" cy="25" r="2" fill="#CE1126"/>
+  <circle cx="5" cy="25" r="2" class="red" fill="#CE1126"/>
+  <circle cx="15" cy="25" r="2" class="red" fill="#CE1126"/>
+  <circle cx="25" cy="25" r="2" class="red" fill="#CE1126"/>
+  <circle cx="35" cy="25" r="2" class="red" fill="#CE1126"/>
+  <circle cx="45" cy="25" r="2" class="red" fill="#CE1126"/>
   <circle cx="55" cy="25" r="2" fill="#000000"/>
   <circle cx="65" cy="25" r="2" fill="#000000"/>
   <circle cx="75" cy="25" r="2" fill="#000000"/>
@@ -70,13 +78,13 @@
   <circle cx="195" cy="25" r="2" fill="#000000"/>
 
   <!-- y = 35 (white stripe; red at x <= 70) -->
-  <circle cx="5" cy="35" r="2" fill="#CE1126"/>
-  <circle cx="15" cy="35" r="2" fill="#CE1126"/>
-  <circle cx="25" cy="35" r="2" fill="#CE1126"/>
-  <circle cx="35" cy="35" r="2" fill="#CE1126"/>
-  <circle cx="45" cy="35" r="2" fill="#CE1126"/>
-  <circle cx="55" cy="35" r="2" fill="#CE1126"/>
-  <circle cx="65" cy="35" r="2" fill="#CE1126"/>
+  <circle cx="5" cy="35" r="2" class="red" fill="#CE1126"/>
+  <circle cx="15" cy="35" r="2" class="red" fill="#CE1126"/>
+  <circle cx="25" cy="35" r="2" class="red" fill="#CE1126"/>
+  <circle cx="35" cy="35" r="2" class="red" fill="#CE1126"/>
+  <circle cx="45" cy="35" r="2" class="red" fill="#CE1126"/>
+  <circle cx="55" cy="35" r="2" class="red" fill="#CE1126"/>
+  <circle cx="65" cy="35" r="2" class="red" fill="#CE1126"/>
   <circle cx="75" cy="35" r="2" fill="#ffffff"/>
   <circle cx="85" cy="35" r="2" fill="#ffffff"/>
   <circle cx="95" cy="35" r="2" fill="#ffffff"/>
@@ -92,15 +100,15 @@
   <circle cx="195" cy="35" r="2" fill="#ffffff"/>
 
   <!-- y = 45 (white stripe; red at x <= 90) -->
-  <circle cx="5" cy="45" r="2" fill="#CE1126"/>
-  <circle cx="15" cy="45" r="2" fill="#CE1126"/>
-  <circle cx="25" cy="45" r="2" fill="#CE1126"/>
-  <circle cx="35" cy="45" r="2" fill="#CE1126"/>
-  <circle cx="45" cy="45" r="2" fill="#CE1126"/>
-  <circle cx="55" cy="45" r="2" fill="#CE1126"/>
-  <circle cx="65" cy="45" r="2" fill="#CE1126"/>
-  <circle cx="75" cy="45" r="2" fill="#CE1126"/>
-  <circle cx="85" cy="45" r="2" fill="#CE1126"/>
+  <circle cx="5" cy="45" r="2" class="red" fill="#CE1126"/>
+  <circle cx="15" cy="45" r="2" class="red" fill="#CE1126"/>
+  <circle cx="25" cy="45" r="2" class="red" fill="#CE1126"/>
+  <circle cx="35" cy="45" r="2" class="red" fill="#CE1126"/>
+  <circle cx="45" cy="45" r="2" class="red" fill="#CE1126"/>
+  <circle cx="55" cy="45" r="2" class="red" fill="#CE1126"/>
+  <circle cx="65" cy="45" r="2" class="red" fill="#CE1126"/>
+  <circle cx="75" cy="45" r="2" class="red" fill="#CE1126"/>
+  <circle cx="85" cy="45" r="2" class="red" fill="#CE1126"/>
   <circle cx="95" cy="45" r="2" fill="#ffffff"/>
   <circle cx="105" cy="45" r="2" fill="#ffffff"/>
   <circle cx="115" cy="45" r="2" fill="#ffffff"/>
@@ -114,15 +122,15 @@
   <circle cx="195" cy="45" r="2" fill="#ffffff"/>
 
   <!-- y = 55 (white stripe; red at x <= 90) -->
-  <circle cx="5" cy="55" r="2" fill="#CE1126"/>
-  <circle cx="15" cy="55" r="2" fill="#CE1126"/>
-  <circle cx="25" cy="55" r="2" fill="#CE1126"/>
-  <circle cx="35" cy="55" r="2" fill="#CE1126"/>
-  <circle cx="45" cy="55" r="2" fill="#CE1126"/>
-  <circle cx="55" cy="55" r="2" fill="#CE1126"/>
-  <circle cx="65" cy="55" r="2" fill="#CE1126"/>
-  <circle cx="75" cy="55" r="2" fill="#CE1126"/>
-  <circle cx="85" cy="55" r="2" fill="#CE1126"/>
+  <circle cx="5" cy="55" r="2" class="red" fill="#CE1126"/>
+  <circle cx="15" cy="55" r="2" class="red" fill="#CE1126"/>
+  <circle cx="25" cy="55" r="2" class="red" fill="#CE1126"/>
+  <circle cx="35" cy="55" r="2" class="red" fill="#CE1126"/>
+  <circle cx="45" cy="55" r="2" class="red" fill="#CE1126"/>
+  <circle cx="55" cy="55" r="2" class="red" fill="#CE1126"/>
+  <circle cx="65" cy="55" r="2" class="red" fill="#CE1126"/>
+  <circle cx="75" cy="55" r="2" class="red" fill="#CE1126"/>
+  <circle cx="85" cy="55" r="2" class="red" fill="#CE1126"/>
   <circle cx="95" cy="55" r="2" fill="#ffffff"/>
   <circle cx="105" cy="55" r="2" fill="#ffffff"/>
   <circle cx="115" cy="55" r="2" fill="#ffffff"/>
@@ -136,13 +144,13 @@
   <circle cx="195" cy="55" r="2" fill="#ffffff"/>
 
   <!-- y = 65 (white stripe; red at x <= 70) -->
-  <circle cx="5" cy="65" r="2" fill="#CE1126"/>
-  <circle cx="15" cy="65" r="2" fill="#CE1126"/>
-  <circle cx="25" cy="65" r="2" fill="#CE1126"/>
-  <circle cx="35" cy="65" r="2" fill="#CE1126"/>
-  <circle cx="45" cy="65" r="2" fill="#CE1126"/>
-  <circle cx="55" cy="65" r="2" fill="#CE1126"/>
-  <circle cx="65" cy="65" r="2" fill="#CE1126"/>
+  <circle cx="5" cy="65" r="2" class="red" fill="#CE1126"/>
+  <circle cx="15" cy="65" r="2" class="red" fill="#CE1126"/>
+  <circle cx="25" cy="65" r="2" class="red" fill="#CE1126"/>
+  <circle cx="35" cy="65" r="2" class="red" fill="#CE1126"/>
+  <circle cx="45" cy="65" r="2" class="red" fill="#CE1126"/>
+  <circle cx="55" cy="65" r="2" class="red" fill="#CE1126"/>
+  <circle cx="65" cy="65" r="2" class="red" fill="#CE1126"/>
   <circle cx="75" cy="65" r="2" fill="#ffffff"/>
   <circle cx="85" cy="65" r="2" fill="#ffffff"/>
   <circle cx="95" cy="65" r="2" fill="#ffffff"/>
@@ -158,11 +166,11 @@
   <circle cx="195" cy="65" r="2" fill="#ffffff"/>
 
   <!-- y = 75 (green stripe; red at x <= 50) -->
-  <circle cx="5" cy="75" r="2" fill="#CE1126"/>
-  <circle cx="15" cy="75" r="2" fill="#CE1126"/>
-  <circle cx="25" cy="75" r="2" fill="#CE1126"/>
-  <circle cx="35" cy="75" r="2" fill="#CE1126"/>
-  <circle cx="45" cy="75" r="2" fill="#CE1126"/>
+  <circle cx="5" cy="75" r="2" class="red" fill="#CE1126"/>
+  <circle cx="15" cy="75" r="2" class="red" fill="#CE1126"/>
+  <circle cx="25" cy="75" r="2" class="red" fill="#CE1126"/>
+  <circle cx="35" cy="75" r="2" class="red" fill="#CE1126"/>
+  <circle cx="45" cy="75" r="2" class="red" fill="#CE1126"/>
   <circle cx="55" cy="75" r="2" fill="#007A3D"/>
   <circle cx="65" cy="75" r="2" fill="#007A3D"/>
   <circle cx="75" cy="75" r="2" fill="#007A3D"/>
@@ -180,9 +188,9 @@
   <circle cx="195" cy="75" r="2" fill="#007A3D"/>
 
   <!-- y = 85 (green stripe; red at x <= 30) -->
-  <circle cx="5" cy="85" r="2" fill="#CE1126"/>
-  <circle cx="15" cy="85" r="2" fill="#CE1126"/>
-  <circle cx="25" cy="85" r="2" fill="#CE1126"/>
+  <circle cx="5" cy="85" r="2" class="red" fill="#CE1126"/>
+  <circle cx="15" cy="85" r="2" class="red" fill="#CE1126"/>
+  <circle cx="25" cy="85" r="2" class="red" fill="#CE1126"/>
   <circle cx="35" cy="85" r="2" fill="#007A3D"/>
   <circle cx="45" cy="85" r="2" fill="#007A3D"/>
   <circle cx="55" cy="85" r="2" fill="#007A3D"/>
@@ -202,7 +210,7 @@
   <circle cx="195" cy="85" r="2" fill="#007A3D"/>
 
   <!-- y = 95 (green stripe; red at x <= 10) -->
-  <circle cx="5" cy="95" r="2" fill="#CE1126"/>
+  <circle cx="5" cy="95" r="2" class="red" fill="#CE1126"/>
   <circle cx="15" cy="95" r="2" fill="#007A3D"/>
   <circle cx="25" cy="95" r="2" fill="#007A3D"/>
   <circle cx="35" cy="95" r="2" fill="#007A3D"/>

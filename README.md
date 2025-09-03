@@ -29,7 +29,13 @@
 <!-- Palestine flag (dot matrix) -->
 ![Palestine flag made of dots](assets/palestine-dot-flag.svg)
 
-<h2 align="center">End the genocide in Gaza — Free Palestine.</h2>
+<h2 align="center" style="color:#CE1126; font-weight:800;">Gaza is bleeding — End the genocide. <span style="color:#007A3D;">Free Palestine.</span></h2>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Gaza%20is%20bleeding%20%E2%80%94%20End%20the%20genocide;Free%20Palestine%20%F0%9F%8C%BF;Stand%20with%20Gaza%20%E2%80%94%20Stop%20the%20siege;&center=true&width=900&height=60&color=CE1126&vCenter=true" alt="Gaza is bleeding — End the genocide. Free Palestine."/>
+  </a>
+</p>
 
 ## 🧭 About Me
 
