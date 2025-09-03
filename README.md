@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/followers/KhaderMurtaja?label=Followers&style=flat" alt="followers"/>
   <img src="https://img.shields.io/github/stars/KhaderMurtaja?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="stars"/>
   <img src="https://img.shields.io/badge/Origin-Palestine%20%F0%9F%87%B5%F0%9F%87%B8-2ea44f?style=flat" alt="origin-palestine"/>
-  <img src="https://img.shields.io/badge/Based_in-Cairo%2C%20Egypt%20%F0%9F%87%AA%F0%9F%87%AC-red?style=flat" alt="based-in-egypt"/>
+  <img src="https://img.shields.io/badge/Based_in-Egypt%20%F0%9F%87%AA%F0%9F%87%AC-red?style=flat" alt="based-in-egypt"/>
   <img src="https://img.shields.io/badge/Timezone-GMT%2B3-informational?style=flat" alt="timezone"/>
 </p>
 
@@ -83,9 +83,6 @@
 
 ## 🗂️ Table of Contents
 
-- [About Me](#-about-me)
-- [Tech Stack](#-tech-stack)
-- [Professional Summary](#-professional-summary)
 - [Highlights](#-highlights)
 - [Professional Experience](#-professional-experience)
 - [Education](#-education)
@@ -96,11 +93,6 @@
 - [GitHub Stats](#-github-stats)
 - [Trophies](#-trophies)
 - [Connect](#-connect)
-
-
-## 💼 Professional Summary
-
-Seasoned Senior Flutter Engineer with 4+ years building scalable, high-performance mobile apps using Flutter and Dart. Proven track record leading MVPs from scratch, architecting clean systems with BLoC, and integrating advanced features such as real-time messaging, push notifications, and multi-language support across projects like Enfaq, Prosway, and The Social App. Experienced in upgrading codebases for compatibility and efficiency, implementing secure authentication (incl. 2FA), and ensuring cross-platform stability on iOS and Android. Passionate about Firebase, REST APIs, and agile execution to ship innovative solutions and exceptional user experiences.
 
 
 ## ✨ Highlights
@@ -189,7 +181,6 @@ Flutter · Dart · Git · GitFlow · GitHub · Version Control · Mobile Applica
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=KhaderMurtaja&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhaderMurtaja&theme=tokyonight" alt="streak"/>
 </p>
 
 <p>
