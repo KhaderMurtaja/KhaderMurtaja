@@ -17,7 +17,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-@KhaderMurtaja-black?style=for-the-badge&logo=github)](https://github.com/KhaderMurtaja)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/khader-murtaja/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2f2f2f&logoWidth=20)](https://www.linkedin.com/in/khader-murtaja/)
 [![X Follow](https://img.shields.io/badge/Follow%20on%20X-FOLLOW-black?style=for-the-badge&logo=x&logoColor=white&labelColor=2f2f2f)](https://x.com/MurtajaKhader)
 [![Email](https://img.shields.io/badge/Email-khadermurtaja1%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:khadermurtaja1@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/201158292885)
