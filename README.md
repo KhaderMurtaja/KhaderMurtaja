@@ -5,8 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=KhaderMurtaja&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
   <img src="https://img.shields.io/github/followers/KhaderMurtaja?label=Followers&style=flat" alt="followers"/>
   <img src="https://img.shields.io/github/stars/KhaderMurtaja?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="stars"/>
-  <img src="https://img.shields.io/badge/Origin-Palestine%20%F0%9F%87%B5%F0%9F%87%B8-2ea44f?style=flat" alt="origin-palestine"/>
-  <img src="https://img.shields.io/badge/Based_in-Egypt%20%F0%9F%87%AA%F0%9F%87%AC-red?style=flat" alt="based-in-egypt"/>
+  <img src="https://img.shields.io/badge/Origin-Palestine-2ea44f?style=flat" alt="origin-palestine"/>
+  <img src="https://img.shields.io/badge/Based_in-Egypt-red?style=flat" alt="based-in-egypt"/>
   <img src="https://img.shields.io/badge/Timezone-GMT%2B3-informational?style=flat" alt="timezone"/>
 </p>
 
@@ -112,7 +112,7 @@
 
 ### [UMRA Tech](https://www.umratech.com) — Flutter Engineer (Remote · Washington, D.C., USA) · Dec 2022 – Sep 2024
 
-### [The Social App](https://apps.apple.com/il/app/the-social-app-make-paid-chat/id1519595567) — Flutter Engineer (Remote · Washington, D.C., USA) · Sep 2021 – Jun 2023
+### [The Social App](https://play.google.com/store/apps/details?id=net.thesocialapp.consumer&pcampaignid=web_share) — Flutter Engineer (Remote · Washington, D.C., USA) · Sep 2021 – Jun 2023
 
 ### [Klokbox](https://klokbox.com) — Flutter Engineer (Remote · Killarney, Ireland) · Jun 2021 – Aug 2021
 
