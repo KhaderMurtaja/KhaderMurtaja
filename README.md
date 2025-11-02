@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/stars/KhaderMurtaja?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="stars"/>
   <img src="https://img.shields.io/badge/Origin-Palestine-2ea44f?style=flat" alt="origin-palestine"/>
   <img src="https://img.shields.io/badge/Based_in-Egypt-red?style=flat" alt="based-in-egypt"/>
-  <img src="https://img.shields.io/badge/Timezone-GMT%2B3-informational?style=flat" alt="timezone"/>
+  <img src="https://img.shields.io/badge/Timezone-GMT%2B2-informational?style=flat" alt="timezone"/>
 </p>
 
 <p align="center">
