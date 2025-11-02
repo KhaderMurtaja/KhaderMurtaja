@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="80" viewBox="0 0 1000 80" role="img" aria-label="Gaza is bleeding — End the genocide. Free Palestine.">
+  <title>Gaza is bleeding — End the genocide. Free Palestine.</title>
+  <rect width="100%" height="100%" fill="transparent"/>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans", Ubuntu, Cantarell, "Helvetica Neue", Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; font-size: 28px; font-weight: 800; dominant-baseline: middle; }
+    .red { fill: #CE1126; }
+    .green { fill: #007A3D; }
+  </style>
+  <text x="50%" y="50%" text-anchor="middle">
+    <tspan class="red">Gaza is bleeding — End the genocide. </tspan>
+    <tspan class="green">Free Palestine. 🕊️</tspan>
+  </text>
+</svg>
+
+
