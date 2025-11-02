@@ -7,6 +7,8 @@
       100% { opacity: 0.8; }
     }
     .red { animation: pulse 2.5s ease-in-out infinite; }
+    /* Ensure white dots are visible on light backgrounds (e.g., GitHub light theme) */
+    circle[fill="#ffffff"] { stroke: #d0d7de; stroke-width: 0.6; }
   </style>
   <defs>
     <filter id="dot-dilate">
